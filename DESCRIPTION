@@ -19,9 +19,5 @@ Imports:
     geosphere (>= 1.5.10),
     geometry (>= 0.4.5),
     Matrix
-Suggests:
-    pfields (>= 0.2.1.9000)
-Remotes:
-    earthsystemdiagnostics/pfields
 URL: https://github.com/EarthSystemDiagnostics/geotools	
 BugReports: https://github.com/EarthSystemDiagnostics/geotools/issues
