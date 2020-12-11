@@ -1,6 +1,6 @@
 Package: geostools
 Title: An R package of tools to assist with handling geoscientific problems
-Version: 0.1.0
+Version: 0.2.0
 Author:
   Thomas Muench [aut, cre],
   Andrew Dolman [aut],
@@ -17,10 +17,7 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports:
     geosphere (>= 1.5.10),
-    geometry (>= 0.4.5)
-Suggests:
-    pfields (>= 0.2.1.9000)
-Remotes:
-    earthsystemdiagnostics/pfields
+    geometry (>= 0.4.5),
+    Matrix
 URL: https://github.com/EarthSystemDiagnostics/geotools	
 BugReports: https://github.com/EarthSystemDiagnostics/geotools/issues

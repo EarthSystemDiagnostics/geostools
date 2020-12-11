@@ -7,22 +7,22 @@
 BarometricFormula(T, h, p0 = 1013)
 }
 \arguments{
-\item{T}{surface temperature in degrees Celsius}
+\item{T}{surface temperature in degree Celsius.}
 
-\item{h}{surface elevation in [m]}
+\item{h}{surface elevation in [m].}
 
-\item{p0}{reference surface pressure; defaults to 1013 mbar}
+\item{p0}{reference surface pressure; defaults to 1013 mbar.}
 }
 \value{
 surface pressure in [mbar] at elevation \code{h} and temperature
-\code{T}
+  \code{T}.
 }
 \description{
 Calculate atmospheric surface pressure from elevation and temperature using
 the barometric height formula for an isothermal atmosphere.
 }
 \examples{
-# Surface pressure at Kohnen Station:
+# Surface pressure at Kohnen Station, East Antarctica:
 BarometricFormula(-44.5, 2892)
 }
 \author{
