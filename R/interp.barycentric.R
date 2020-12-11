@@ -11,7 +11,6 @@
 #'
 #' @author Andrew Dolman <andrew.dolman@awi.de>
 #' @return matrix
-#' @import geometry Matrix
 #' @export
 #'
 #' @examples

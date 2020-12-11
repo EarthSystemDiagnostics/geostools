@@ -17,7 +17,8 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports:
     geosphere (>= 1.5.10),
-    geometry (>= 0.4.5)
+    geometry (>= 0.4.5),
+    Matrix
 Suggests:
     pfields (>= 0.2.1.9000)
 Remotes:
