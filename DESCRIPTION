@@ -1,6 +1,6 @@
 Package: geostools
 Title: An R package of tools to assist with handling geoscientific problems
-Version: 0.1.0
+Version: 0.2.0
 Author:
   Thomas Muench [aut, cre],
   Andrew Dolman [aut],
